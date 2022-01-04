@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "video": true,
+  "projectId": "rpfr1u",
+  "retries": {
+    "runMode": 2,
+    "openMode": 0
+  }
+}

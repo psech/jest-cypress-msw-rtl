@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo Should match snapshot 1`] = `
+<tr>
+  <td>
+    10
+  </td>
+  <td>
+    some title
+  </td>
+  <td>
+    <input
+      type="checkbox"
+    />
+  </td>
+</tr>
+`;

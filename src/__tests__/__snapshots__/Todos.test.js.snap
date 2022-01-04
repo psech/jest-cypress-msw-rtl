@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todos Present data 1`] = `
+<table
+  data-testid="todo-table"
+>
+  <thead>
+    <tr>
+      <th>
+        #
+      </th>
+      <th>
+        Todo
+      </th>
+      <th>
+        Completed
+      </th>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;
